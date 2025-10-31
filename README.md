@@ -42,7 +42,7 @@ All endpoints return data in **JSON** format.
 
 **Get Movie by Slug**
 
-> curl -X GET "https://api.porn-api.com/api/movies/yui-hatano-bound-teacher-s-forbidden-desire"
+> curl -X GET "[https://api.porn-api.com/api/movies/yui-hatano-bound-teacher-s-forbidden-desire](https://api.porn-api.com/api/movies/slug/yui-hatano-bound-teacher-s-forbidden-desire)"
 
 **Get All Genres**
 
